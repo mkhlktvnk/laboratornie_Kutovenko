@@ -1,9 +1,7 @@
 #include <stdio.h> 
 #include <string.h>
 #include <ctype.h>
-// посчитать кол-во слов в строке
-// задание 12 
-#include <stdio.h>
+//zadanie 12
 
 int main() {
     char str[255];
